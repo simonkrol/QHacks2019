@@ -1,0 +1,6 @@
+input
+lib
+bin
+share
+.DS_Store
+node_modules
