@@ -4,4 +4,3 @@ bin
 share
 .DS_Store
 node_modules
-project/api/finalized_model.sav
