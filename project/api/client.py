@@ -3,7 +3,7 @@ import requests
 from flask import send_file
 
 #my file to be sent
-local_file_to_send = '../../input/Train/train/4.wav'
+local_file_to_send = '../../input/Train/train/merged2.wav'
 
 url = "http://127.0.0.1:5000/customerupdate"
 
